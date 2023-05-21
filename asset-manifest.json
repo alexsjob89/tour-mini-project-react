@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tour-mini-project-react/static/css/main.204be7c6.css",
+    "main.js": "/tour-mini-project-react/static/js/main.ff343da4.js",
+    "index.html": "/tour-mini-project-react/index.html",
+    "main.204be7c6.css.map": "/tour-mini-project-react/static/css/main.204be7c6.css.map",
+    "main.ff343da4.js.map": "/tour-mini-project-react/static/js/main.ff343da4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204be7c6.css",
+    "static/js/main.ff343da4.js"
+  ]
+}
